@@ -1,0 +1,57 @@
+
+#fire{
+    background-color:#cf7575;
+    font-family: cursive;
+}
+body{
+    background-color:#cf7575;
+   
+}
+#txt{
+    
+    font-family: cursive;
+    color: rgb(234, 245, 243);
+    font-size:2.5rem;
+   
+}
+.navbar{
+
+    padding:1.5rem 4.5rem 5.5rem  4.5rem;
+}
+.nav-item{
+
+    padding:0 10px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: sans-serif;
+}
+.timg {
+    
+    width: 55%;
+
+  }
+  #feat{
+    padding:7% 15%;
+    background-color:#fff;
+    font-size:1.5rem;
+    color: black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+  }
+  .subtxt{
+
+    font-size: 1.2rem; 
+     color: rgb(71, 67, 54);
+     font-family: cursive;
+  }
+  .icon:hover{
+    background-color: pink;
+  }
+  .timg:hover{
+    background-color: pink;
+  }
+  #connect{ padding:7% 15%;
+    background-color:#87bfb766; 
+    text-align: center;
+    color: black;}
